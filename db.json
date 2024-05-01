@@ -1,0 +1,315 @@
+{
+  "menu": [
+    { "id": 1, "title": "فیلیموتور", "link": "www.google.com" },
+    { "id": 2, "title": "فیلیمو مدرسه", "link": "www.google.com" },
+    { "id": 3, "title": "جست و جو", "link": "www.google.com" }
+  ],
+  "Series": [
+    {
+      "id": 1,
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI4olQFFs1sjnxLKjUXGgeFNanPPmCFi_a_vJfVtECBxgVHz3o",
+      "posteralt": "oscar",
+      "title": "اسکار",
+      "dirctor": "مهران مدیری",
+      "gener": "رییلیتی شو",
+      "summary": "اسکار، محصول ویستا مدیا یک رئالیتی شوی چالش محور است که مهمانان آن همگی از بازیگران و  افراد مشهور هستند. در این رئالیتی...",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_142032_381.png?width=400&quality=85&secret=rF6-vLzIh5uZAlpgNKSqOQ",
+      "episodes": [
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_142033_72421.jpg?width=220&quality=85&secret=qJ5TcZ8YIuLdXpcKZuGaKA",
+          "title": "قسمت اول"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_142033_72421.jpg?width=220&quality=85&secret=qJ5TcZ8YIuLdXpcKZuGaKA",
+          "title": "قسمت دوم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_142033_72421.jpg?width=220&quality=85&secret=qJ5TcZ8YIuLdXpcKZuGaKA",
+          "title": "قسمت سوم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_142033_72421.jpg?width=220&quality=85&secret=qJ5TcZ8YIuLdXpcKZuGaKA",
+          "title": "قسمت چهارم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_142033_72421.jpg?width=220&quality=85&secret=qJ5TcZ8YIuLdXpcKZuGaKA",
+          "title": "قسمت پنجم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_142033_72421.jpg?width=220&quality=85&secret=qJ5TcZ8YIuLdXpcKZuGaKA",
+          "title": "قسمت ششم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_142033_72421.jpg?width=220&quality=85&secret=qJ5TcZ8YIuLdXpcKZuGaKA",
+          "title": "قسمت هفت"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "poster": "https://static.cdn.asset.filimo.com/flmt/mov_146023_155520.jpg?width=165&quality=85&secret=1uLHimMWMoHrt1cgKWNahQ",
+      "posteralt": "gonahe fereshte",
+      "title": "گناه فرشته",
+      "dirctor": "حامد عنقا",
+      "gener": "درام",
+      "summary": "وقتی به سرنوشت نهایی نگاه می‌کنی، فایده‌ای در این همه جنجال نمی‌بینی.",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_141218_814.png?width=400&quality=85&secret=_KlqyGGLszs_4kQSVkAXqg",
+      "episodes": [
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_141217_70888.jpg?width=220&quality=85&secret=9Ivk16uBlt7bxji0WaqxHw",
+          "title": "قسمت اول"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_142984_72075.jpg?width=220&quality=85&secret=-oo_VJwokRnWktOtIsCWHg",
+          "title": "قسمت دوم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_143710_72423.jpg?width=220&quality=85&secret=tw9IJqMcVriIjBM2XGl6iw",
+          "title": "قسمت سوم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_143887_72422.jpg?width=220&quality=85&secret=n5FsTe-FdyxcdyQicuIbxw",
+          "title": "قسمت چهارم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_144162_105952.jpg?width=220&quality=85&secret=DDwzoGgJj4IrduZC4v6MPw",
+          "title": "قسمت پنجم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_144289_150726.jpg?width=220&quality=85&secret=Sl_Ua2m2V_d2CNOnX7I4Jg",
+          "title": "قسمت ششم"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "poster": "https://static.cdn.asset.filimo.com/flmt/mov_146003_155578.jpg?width=165&quality=85&secret=GbBnWWlrjH9_V0viiemjSw",
+      "posteralt": "ghotbeshomal",
+      "title": "قطب شمال",
+      "dirctor": "امین محمودی یکتا",
+      "gener": "عاشقانه",
+      "summary": "عشق همایون و ارغوان در مسیر وصال است. خیانتی هولناک، این مسیر را ناهموار می کند و مرگ از راه می رسد.",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_146002_179.png?width=400&quality=85&secret=fE8w1UsRDDqcH6fVNRvC4g",
+      "episodes": [
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_146003_156073.jpg?width=220&quality=85&secret=d1SoBIKRbDKuyxSCAImktg",
+          "title": "قسمت اول"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "poster": "https://static.cdn.asset.filimo.com/flmt/mov_146240_156057.jpg?width=165&quality=85&secret=cjBvFooa-6FhjDHZ2oE19A",
+      "posteralt": "ghotbeshomal",
+      "title": "صداتو",
+      "dirctor": "حامد جوادزاده",
+      "gener": "گیم شو",
+      "summary": "صداتو، یک مسابقه موسیقایی پرمعما و جذاب است که محسن کیایی با چهره ای متفاوت اجرای آن را به عهده دارد. چهره های آشنا",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_134635_963.png?width=400&quality=85&secret=O9DSxuBguojV_Nk2Y8nywQ",
+      "episodes": [
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_134637_57892.jpg?width=220&quality=85&secret=ElFYnUXBtrQ8tnUaXEEBsQ",
+          "title": "قسمت اول"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_134877_58009.jpg?width=220&quality=85&secret=DTICd9tzJEG8XQuWLASoFA",
+          "title": "قسمت دوم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_135002_58430.jpg?width=220&quality=85&secret=P6tkL-51vYpcu4eyktmN3A",
+          "title": "قسمت سوم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_135237_58998.jpg?width=220&quality=85&secret=a94QvTPcYhn8lf-wG9t2cQ",
+          "title": "قسمت چهارم"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "poster": "https://static.cdn.asset.filimo.com/flmt/mov_146196_155591.jpg?width=165&quality=85&secret=5IywSvFw09Ci7DXT2Z9Wxw",
+      "posteralt": "ghotbeshomal",
+      "title": "شب های مافیا: زودیاک",
+      "dirctor": "محمدرضا رضاییان",
+      "gener": "خانوادگی",
+      "summary": "شب های مافیا، گیم شوی جذابی است که در آن یک قاتل سریالی به نام «زودیاک»، شهروندان و مافیای سیسیل را هدف قرار می د",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_137093_589.png?width=400&quality=85&secret=n9AW7B2hhMceD8DJwgLBHA",
+      "episodes": [
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_137339_61705.jpg?width=220&quality=85&secret=XrzarFR0AQ8Af5r_5AZ5lA",
+          "title": "قسمت اول"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_137105_61943.jpg?width=220&quality=85&secret=4mXfskQHh02pUoNCwLlnOQ",
+          "title": "قسمت دوم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_137502_62093.jpg?width=220&quality=85&secret=3ou1oj7kgmJMnfGfnOnEfA",
+          "title": "قسمت سوم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_137503_62992.jpg?width=220&quality=85&secret=8a0BQX9_zQ8LWbiyNQbA8w",
+          "title": "قسمت چهارم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_138498_63954.jpg?width=220&quality=85&secret=p4w82CBL-OvYSLNdvglZFA",
+          "title": "قسمت پنجم"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "poster": "https://static.cdn.asset.filimo.com/flmt/mov_146197_155589.jpg?width=165&quality=85&secret=0fsQDyuzBli2Kcq73dP44w",
+      "posteralt": "ghotbeshomal",
+      "title": "سپنج",
+      "dirctor": "",
+      "gener": "خانوادگی",
+      "summary": "در سپنج هفتم، علی درستکار با خسرو حکیم رابط، نمایشنامه نویس شهیر، از نزدیکِ یک قرن زیست آگاهانه و دریچه هایی نو به قصه ها",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_145429_122.png?width=400&quality=85&secret=7OruWuK3jkOALScHWd6mBw",
+      "episodes": [
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_145430_153266.jpg?width=220&quality=85&secret=uOuB4fkexIWwspiF1wtdpw",
+          "title": "قسمت اول"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_145451_153267.jpg?width=220&quality=85&secret=f67yLpS58dr9194B19g-iA",
+          "title": "قسمت دوم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_145613_153822.jpg?width=220&quality=85&secret=p-O0f26bxkS_OTE9naf-cg",
+          "title": "قسمت سوم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_145614_154745.jpg?width=220&quality=85&secret=azn9V70v5HjYiEHeMj6CAw",
+          "title": "قسمت چهارم"
+        },
+        {
+          "image": "https://static.cdn.asset.filimo.com/flmt/mov_145812_154746.jpg?width=220&quality=85&secret=tdVDSPNjM3TWJcLzZkTe0g",
+          "title": "قسمت پنجم"
+        }
+      ]
+    }
+  ],
+  "Platforms": [
+    {
+      "id": 1,
+      "title": "کامپیوتر و لپ‌تاپ",
+      "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/laptop.png",
+      "types": [
+        { "name": "windows PC" },
+        { "name": "macOS" },
+        { "name": "Chroms Os" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "موبایل و تبلت",
+      "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/mobile.png",
+      "types": [
+        { "name": "Android Phone & Tablets" },
+        { "name": " Iphone and Ipad" },
+        { "name": "Amazon Fire Tablets" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "(Browser) کنسول‌های بازی",
+      "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/game.png",
+      "types": [
+        { "name": "Xbox Series S" },
+        { "name": "Xbox Seris X" },
+        { "name": "PS5" },
+        { "name": "PS4" }
+      ]
+    }
+  ],
+  "Free": [
+    {
+      "id": 1,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_11933_1-b.jpg?width=165&quality=85&secret=TTVEtvEcur7pOH0IgDJRhw",
+      "title": "پایتخت"
+    },
+    {
+      "id": 2,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_639_995-b.jpg?width=165&quality=85&secret=U80oEojsjv7n8SfJm-7rMQ",
+      "title": "عقرب"
+    },
+    {
+      "id": 3,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41017_932-b.jpg?width=165&quality=85&secret=iCCdAosM5VpIaQc_eFKHAA",
+      "title": "ملکه گدایان"
+    },
+    {
+      "id": 4,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_16676_331-b.jpg?width=165&quality=85&secret=4Q0sOKsHPQtVOTLs4kEvgQ",
+      "title": "شاهرگ"
+    },
+    {
+      "id": 5,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_12645_1-b.jpg?width=165&quality=85&secret=T7uBxOIOJlPMJv1V6Ltu7Q",
+      "title": "بالشها"
+    },
+    {
+      "id": 6,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_17637_916-b.jpg?width=165&quality=85&secret=Y1OuacY3TaQCzdi43YaqzA",
+      "title": "حماسه دره شیلر"
+    },
+    {
+      "id": 7,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82690_962-b.jpg?width=165&quality=85&secret=zzPDwF-hvHdgEpy62Nqxog",
+      "title": "شبهای مافیا 2"
+    },
+    {
+      "id": 8,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_37557_65703.jpg?width=165&quality=85&secret=sFeug_xad-7HaV_WbrClGQ",
+      "title": "دیرین دیرین"
+    },
+    {
+      "id": 9,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_26097_1-b.jpg?width=165&quality=85&secret=zKNS5MCO36dP6R20MWmPCA",
+      "title": "سالهای دور از خانه"
+    },
+    {
+      "id": 10,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82686_882-b.jpg?width=165&quality=85&secret=1_5lgLmmEx8UpnWb6jHY1A",
+      "title": "دراکولا"
+    },
+    {
+      "id": 11,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_42788_258-b.jpg?width=165&quality=85&secret=DFw_JKP6DOvyxBxiKkpD3Q",
+      "title": "سجاده اتش"
+    },
+    {
+      "id": 12,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_36180_850-b.jpg?width=165&quality=85&secret=nTriltwu8OPuYXx9nxE6Vg",
+      "title": "شبهای مافیا"
+    },
+    {
+      "id": 13,
+      "image": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41499_219-b.jpg?width=165&quality=85&secret=L56LMdyMy6j0qUEywlywKQ",
+      "title": "خوب بد جلف"
+    }
+  ],
+  "Accordion": [
+    {
+      "id": 1,
+      "title": " آیا می تونم فیلم های موجود در فیلیمو را دانلود کنم",
+      "body": "بله، شما می‌توانید همه فیلم‌ و سریال‌های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان‌هایی که اینترنت ندارید یا در سفر، هواپیما و قطار آ‌ن‌ها را تماشا کنید. برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می‌توانید اقدام‌کنید. برای جزییات بیشتر می‌توانید فیلم‌های آموزشی مربوط به دانلود از طریق سایت و دانلود از طریق  اپلیکیشن را تماشا کنید"
+    },
+    {
+      "id": 2,
+      "title": "آیا فیلیمو برای خارج ایران قابل دسترس است",
+      "body": "خیر. درحال حاضر تماشای فیلیمو فقط در داخل کشور فعال است و امکان تماشا برای افراد خارج از کشور فعال نیست"
+    },
+    {
+      "id": 3,
+      "title": "آیا برای فیلم های اکران انلاین باید اشتراک بخریم",
+      "body": "تماشای فیلم‌های اکران آنلاین مانند تماشا در سینمای واقعی است؛ یعنی برای دیدن هر فیلم که در اکران آنلاین است باید بلیت تهیه کنید و به جای رفتن به سالن سینما، 8 ساعت فرصت دارید که آن فیلم را از داخل خانه تماشا کنید"
+    },
+    {
+      "id": 4,
+      "title": "از کجا میتوانم نرم افزار اندروید یا IOS رادانلود کنم",
+      "body": "برای نصب نرم‌افزار اندرویدی فیلیمو می‌توانید ازطریق کافه بازار یا مایکت اقدام به دانلود کنید. یا می‌توانید روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار اندروید) برای دانلود نرم‌افزار iOS فیلیمو نیز کافیست روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار iOS)"
+    }
+  ]
+}
