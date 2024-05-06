@@ -181,31 +181,63 @@
   "Series2": [
     {
       "id": 1,
-      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI4olQFFs1sjnxLKjUXGgeFNanPPmCFi_a_vJfVtECBxgVHz3o",
-      "posteralt": "oscar",
-      "title": "اسکار",
-      "dirctor": "مهران مدیری",
-      "gener": "رییلیتی شو",
-      "summary": "اسکار، محصول ویستا مدیا یک رئالیتی شوی چالش محور است که مهمانان آن همگی از بازیگران و  افراد مشهور هستند. در این رئالیتی...",
-      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_142032_381.png?width=400&quality=85&secret=rF6-vLzIh5uZAlpgNKSqOQ",
-      "episodes": [
-        {
-          "image": "https://static.cdn.asset.filimo.com/flmt/mov_142033_72421.jpg?width=220&quality=85&secret=qJ5TcZ8YIuLdXpcKZuGaKA",
-          "title": "قسمت اول"
-        },
-        {
-          "image": "https://static.cdn.asset.filimo.com/flmt/mov_144017_72682.jpg?width=220&quality=85&secret=hUZ2xvBsI_3Bg_5a8Suv3A",
-          "title": "قسمت دوم"
-        },
-        {
-          "image": "https://static.cdn.asset.filimo.com/flmt/mov_144159_106140.jpg?width=220&quality=85&secret=K7x9mX-PXhbp3boWCn_Csg",
-          "title": "قسمت سوم"
-        },
-        {
-          "image": "https://static.cdn.asset.filimo.com/flmt/mov_144285_150730.jpg?width=220&quality=85&secret=t-TsevBdJv8AxH-T3houoA",
-          "title": "قسمت چهارم"
-        }
-      ]
+      "poster": "https://static.cdn.asset.filimo.com/flmt/mov_145103_152533.jpg?width=165&quality=85&secret=G95_wAj3uUVsDAveZMBp3w",
+      "posteralt": "fossil",
+      "title": "فسیل",
+      "dirctor": " کریم امینی",
+      "gener": " کمدی",
+      "summary": "فسیل داستان سه دوست را در پیش از انقلاب ایران روایت می‌کند که عضو یک گروه موسیقی‌ اند و برای کسب شهرت تلاش می‌کنند",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_145103_558.png?width=400&quality=85&secret=u6x-SbXrQGbat02Zy2QAXw"
+    },
+    {
+      "id": 2,
+      "poster": "https://static.cdn.asset.filimo.com/flmt/mov_144197_152428.jpg?width=165&quality=85&secret=_h06YbaofoWO6ivilAXshQ",
+      "posteralt": "hoolia",
+      "title": "هولیا",
+      "dirctor": "  مرتضی آتش زمزم",
+      "gener": " خانوادگی",
+      "summary": "در ایران پدر و مادرها به بچه هاشون اجازه هر کاری را نمی دهند، ولی همیشه نوه داستانش فرق داره!",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_144197_790.png?width=400&quality=85&secret=Qj8XvB37P0UibXfs-pEHfw"
+    },
+    {
+      "id": 3,
+      "poster": "https://static.cdn.asset.filimo.com/flmt/mov_145544_153457.jpg?width=165&quality=85&secret=ca2lkwGkZ5rLY-1LPHZcsA",
+      "posteralt": "bi hame chiz",
+      "title": "بی همه چیز",
+      "dirctor": " محسن قرایی ",
+      "gener": " درام",
+      "summary": "امیر مردی است که معتمد مردم یک روستا است و بخش مهمی از امور روستا بر عهده اوست. زن ثروتمندی از اهالی آنجا پس از سال ها ",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_145544_737.png?width=400&quality=85&secret=x6K1w5QCW8_zgcR2XEKh_g"
+    },
+    {
+      "id": 4,
+      "poster": "https://static.cdn.asset.filimo.com/flmt/mov_145138_152883.jpg?width=165&quality=85&secret=TV8OQYZ3fA_QJ3HIeUzT-A",
+      "posteralt": "zanboor karegar",
+      "title": "زنبور کارگر",
+      "dirctor": "  افشین صادقی",
+      "gener": " درام",
+      "summary": "سال ها پیش، بیوک همسرش را به خاطر خطای پزشک از دست داده و در نزاعی به قتل می رسد. اکنون دخترش به دنبال انتقام از ",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_145138_778.png?width=400&quality=85&secret=Ixwv0NA6VtElwi7G5bpU1Q"
+    },
+    {
+      "id": 5,
+      "poster": "https://static.cdn.asset.filimo.com/flmt/mov_144888_152523.jpg?width=165&quality=85&secret=mYfXtrwli9h_6yxCzIzKFg",
+      "posteralt": "my captain",
+      "title": "کاپیتان",
+      "dirctor": " سیاوش صفاریان پور",
+      "gener": " مستند",
+      "summary": "کاپیتان من، فیلم مستند علمی با موضوع مغز انسان است که بهرام رادان به عنوان راوی آن در جستجوی اهمیت مغز، مخاطبان ",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_144888_841.png?width=400&quality=85&secret=Gc7T6AVdz9XHUjqI_rTEBg"
+    },
+    {
+      "id": 6,
+      "poster": "https://static.cdn.asset.filimo.com/flmt/mov_144353_120639.jpg?width=165&quality=85&secret=Sg8bUv5jiOrp9hUDlJdKrQ",
+      "posteralt": "monshi makhsos man",
+      "title": "منشی مخصوص من",
+      "dirctor": " صالح دلدم ",
+      "gener": " کمدی",
+      "summary": "بزرگ زاده تاجری پا به سن گذاشته است که شب عید بهانه ای پیش می کشد تا همسرش تنها به مسافرت برود و عید را با هرکس ک",
+      "ImageTitle": "https://static.cdn.asset.filimo.com/flmt/mov_logo_144353_503.png?width=400&quality=85&secret=OBENMt7eti6W9eyuSsJE8g"
     }
   ],
   "Platforms": [
